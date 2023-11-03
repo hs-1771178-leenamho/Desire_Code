@@ -15,4 +15,4 @@ https://drive.google.com/drive/folders/1NJMt0LfcWoTNkZWQNZ1BNwMAMdbpFHNZ?usp=sha
 
 ![메인화면](https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077)
 
-<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="700" height="700">
+<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="1400" height="700">
