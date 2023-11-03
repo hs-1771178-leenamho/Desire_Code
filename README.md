@@ -13,6 +13,4 @@ https://drive.google.com/drive/folders/1NJMt0LfcWoTNkZWQNZ1BNwMAMdbpFHNZ?usp=sha
 아이템 파밍 과정에서 숨겨진 단서를 찾아 숨겨진 진 엔딩을 찾는 재미를 추가해봤습니다.
 
 
-![메인화면](https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077)
-
-<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="1400" height="700">
+<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="1200" height="600">
