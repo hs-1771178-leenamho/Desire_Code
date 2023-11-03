@@ -10,6 +10,7 @@ https://drive.google.com/drive/folders/1NJMt0LfcWoTNkZWQNZ1BNwMAMdbpFHNZ?usp=sha
 
 'Desire'은 Unity 3D 엔진을 이용해 만든 1인칭 스릴러/방 탈출 게임입니다.</br>
 어두운 건물 안에서 생존을 위한 아이템을 파밍하고 key를 찾아 다음 층으로 넘어가며 최종적으로 보스 몬스터를 처치 후 건물에서 탈출하는게 목표인 게임입니다.</br>
+유저가 플레이 하는 맵이 굉장히 어두워 손전등과 배터리 관리가 핵심 요소입니다.</br>
 아이템 파밍 과정에서 숨겨진 단서를 찾아 숨겨진 진 엔딩을 찾는 재미를 추가해봤습니다.</br></br>
 
 
@@ -31,5 +32,10 @@ https://drive.google.com/drive/folders/1NJMt0LfcWoTNkZWQNZ1BNwMAMdbpFHNZ?usp=sha
 <img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/ef1fedb9-2c12-4c09-a53b-28a2bcba9477"  width="1000" height="500">
 </br></br>
 
+-클리어를 위해 격파해야 하는 보스 몬스터-
+<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f671d7e8-75d6-4965-ae6d-7abf4a585102"  width="1000" height="500">
+</br></br>
 
-
+-엔딩 씬 스틸컷-
+<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/0897363e-c3ed-494b-80aa-383fa85c5c78"  width="1000" height="500">
+</br></br>
