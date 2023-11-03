@@ -14,4 +14,5 @@ https://drive.google.com/drive/folders/1NJMt0LfcWoTNkZWQNZ1BNwMAMdbpFHNZ?usp=sha
 
 
 ![메인화면](https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077)
-<img src="[/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG](https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077)https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="700" height="370">
+
+<img src="https://github.com/hs-1771178-leenamho/Desire_Code/assets/115772665/f6ca3c27-6c36-4cf7-aa19-e893431dd077"  width="700" height="700">
